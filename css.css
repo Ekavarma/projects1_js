@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    flex-direction: column;
+    gap:20px;
+    
+}
+.quote{
+    background-color: black;
+    color:wheat;
+    padding:10px ;
+    display:block;
+    font-size: 25px;
+    font-weight: 700;
+
+}
+button{
+    outline: none;
+    border:none;
+    background-color:gray;
+    padding:10px 30px;
+    border-radius: 30px;
+}
